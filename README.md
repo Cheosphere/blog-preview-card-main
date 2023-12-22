@@ -4,6 +4,8 @@ El desafío es crear esta tarjeta de vista previa del blog y hacer que se parezc
 
 - HTML
 - CSS
+ 
+![desktop-preview](https://github.com/Cheosphere/blog-preview-card-main/assets/112582420/3ae70700-02a8-416b-8282-0102876885e2)
 
 # Guía de Estilo
 
