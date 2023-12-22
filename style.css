@@ -68,6 +68,12 @@ body {
 
 .title {
     margin-top: 1rem;
+    transition: .2s;
+    cursor: pointer;
+}
+
+.title:hover {
+    color: var(--yellow);
 }
 
 .text {
