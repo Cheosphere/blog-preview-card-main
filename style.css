@@ -36,6 +36,11 @@ body {
     border-radius: 1.15rem;
     border: 1px solid var(--black);
     box-shadow: 8px 8px var(--black);
+    transition: .3s;
+}
+
+.container-shadow {
+    box-shadow: 16px 16px var(--black);
 }
 
 .header-img {
@@ -74,6 +79,10 @@ body {
 
 .title:hover {
     color: var(--yellow);
+}
+
+.title:hover ~ .avatar.container {
+    max-width: 684px;
 }
 
 .text {
